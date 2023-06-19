@@ -1,0 +1,19 @@
+.Det{
+    margin-top:115px;
+    position: relative;
+}
+
+.img{
+    padding: 0 50px;
+    text-align: center;
+
+}
+
+.button{
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    top: 130px;
+    width: 200px;
+    height: 30px;
+}

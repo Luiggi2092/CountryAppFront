@@ -1,0 +1,20 @@
+.mainContainer{
+    background-color: white;
+    display: flex;
+    width: 65rem;
+    margin-left: 25%;
+    margin-top: 1%;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+    border-radius: 15px;
+    border: 1px solid white;
+    
+    
+}
+
+
+
+.mainContainer a {
+    text-decoration: none;
+}

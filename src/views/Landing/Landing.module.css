@@ -1,0 +1,25 @@
+.Landing{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.button{
+    background-color: cornflowerblue;
+    color: white;
+    z-index: 99;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    position: relative;
+    top: 420px;
+
+}
+
+
+.button:hover {
+    background-color: white;
+    color: cornflowerblue;
+}
+

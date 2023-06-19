@@ -1,0 +1,38 @@
+.Card {
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 500px;
+    height: 620px;
+    background-color: cornflowerblue;
+    display: grid;
+    position: relative;
+    left: 80vh;
+    top: 10vh;
+    align-items: center;
+}
+
+.error{
+    color: red;
+}
+
+.titulo {
+    color: white;
+}
+
+.but{
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    width: 150px;
+    height: 30px;
+    
+}
+
+.clear{
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    width: 150px;
+    height: 30px;
+    margin-left:5px;
+}
